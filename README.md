@@ -1,3 +1,3 @@
 # ACA-OOPS-2022
 
-Here is the readme file for OOPS project under ACA.
+This is the readme file for OOPS project under ACA.
